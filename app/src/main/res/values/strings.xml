@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TapveVer2</string>
+
+
+    <string name="login">login</string>
+
+    <string name="firstname">FirstName</string>
+    <string name="lastname">Last Name</string>
+
+    <string name="sign_up_here">Sign up here</string>
+
+    <string name="password">Password</string>
+    <string name="fullname">Fullname</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+
+</resources>

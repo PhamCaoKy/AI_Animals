@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10492758151",
+    "project_id": "doan-676cb",
+    "storage_bucket": "doan-676cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10492758151:android:45e2ef58900f6bf33a9022",
+        "android_client_info": {
+          "package_name": "com.midterm.tapvever2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10492758151-c552crcf7u9664pujjitv9tin0t0mr75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoUpAdiSiYcbyqKg-SjcZsQj7fOnpQiUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10492758151-c552crcf7u9664pujjitv9tin0t0mr75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
